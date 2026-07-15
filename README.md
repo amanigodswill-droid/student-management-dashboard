@@ -35,7 +35,7 @@ git clone https://github.com/amanigodswill-droid/student-management-dashboard.gi
 2. Navigate to the project folder:
 
 ```bash
-cd student-management-dashboard
+cd student_management_portal
 ```
 
 3. Install dependencies:
@@ -52,4 +52,4 @@ npm run dev
 
 ## Author
 
-God'swill Milesh# student-management-dashboard
+God'swill Milesh
